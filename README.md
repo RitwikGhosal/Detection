@@ -1,4 +1,16 @@
-A running check list of files getting uploaded (last updated 19th May, 26):
+# Project Progress Log
 
-1.) fine)tune_Maskd_Rcnn.ipynb (18th May) : Fine tuning a Mask R CNN model on the Penn-Fundan Database for pedestrian detection and segmentation.
-2.) Spatial_transformer.ipynb (19th May)  : STN plugged with an existing CNN for MNIST
+_Last updated: 19 May 2026_
+
+## Uploaded Notebooks
+
+### 1. `fine_tune_Mask_RCNN.ipynb` (18 May 2026)
+- Fine-tuning a Mask R-CNN model on the Penn-Fudan pedestrian dataset.
+- Tasks:
+  - Pedestrian detection
+  - Instance segmentation
+
+### 2. `Spatial_Transformer.ipynb` (19 May 2026)
+- Implementation of a Spatial Transformer Network (STN) integrated with a CNN on the MNIST dataset.
+- Goal:
+  - Learn spatial transformations automatically to improve classification robustness.
